@@ -6,3 +6,4 @@ Contributors: Het Patel, Sahith Konuganti
 
 
 ## About the Project
+This project demonstrates creating a web project through Eclipse, Apache Tomcat and creating databases. 
