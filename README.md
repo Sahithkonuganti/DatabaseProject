@@ -2,9 +2,6 @@
 
 Contributors: Het Patel, Sahith Konuganti
 
-## Table of Contents
-
-
 ## About the Project
 This project demonstrates creating a web project through Eclipse, Apache Tomcat and creating databases. 
 ## Installation
@@ -16,3 +13,6 @@ In order to properly run the program, you need a copy of Apache Tomcat. This can
 ## Enviornment Setup
 Before running the application, you need to properly set up two variables. CATALINA_HOME and JAVA_HOME.
 
+## Contributions
+Both Het and Sahith gave equal effort to complete the ER diagram and the project part 1.
+Time worked together on this project: 10 Hours
