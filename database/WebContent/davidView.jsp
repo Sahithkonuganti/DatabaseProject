@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>David page</title>
+<title>David's page</title>
 </head>
 <body>
 

@@ -286,7 +286,7 @@ public class userDAO
         		  "DistanceToHouse INTEGER, " +
         		  "Location VARCHAR(9000000000)")
         };
-        
+        //comment
         String[] INITLALQuote = {
         		("Price DOUBLE, " +
         		"Note VARCHAR(90000000)")
