@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+/Users/sahithkonuganti/eclipse-workspace2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-68067681.index
-389054619.index
-3055387716.index
-1232692571.index
-553596946.index
-271686826.index
-2979325513.index

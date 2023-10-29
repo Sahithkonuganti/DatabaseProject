@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;database/WebContent/activitypage.jsp&apos; to &apos;clientpage.jsp&apos;" description="Rename resource &apos;activitypage.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/activitypage.jsp" name="clientpage.jsp" stamp="1697905325933" updateReferences="true"/>
-</session>
