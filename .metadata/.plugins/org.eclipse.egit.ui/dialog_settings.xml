@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="Sahithkonuganti &lt;Sahithkonuganti1@gmail.com&gt;"/>
+		<item value="Sahithkonuganti &lt;sahithkonuganti1@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Sahithkonuganti &lt;Sahithkonuganti1@gmail.com&gt;"/>
+		<item value="Sahithkonuganti &lt;sahithkonuganti1@gmail.com&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="/Users/sahithkonuganti/git/Database/.git">
+			<item value="false"/>
+			<item value="Sahithkonuganti &lt;Sahithkonuganti1@gmail.com&gt;"/>
+			<item value="&#x0D;added initialRequest page for now.&#x0D;"/>
+			<item value="Sahithkonuganti &lt;Sahithkonuganti1@gmail.com&gt;"/>
+			<item value="cd7128b0c330c5fc39b96650903d29d954067bc9"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="-29"/>
+		<item key="DIALOG_Y_ORIGIN" value="185"/>
+		<item key="DIALOG_WIDTH" value="650"/>
+		<item key="DIALOG_HEIGHT" value="445"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="FetchGerritChangePage">
+		<item key="[RepositoryHandle:Repository[/Users/sahithkonuganti/git/Database/.git]].lastUri" value="https://github.com/Sahithkonuganti/DatabaseProject.git"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.fetch.FetchResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="212"/>
+		<item key="DIALOG_Y_ORIGIN" value="88"/>
+		<item key="DIALOG_WIDTH" value="600"/>
+		<item key="DIALOG_HEIGHT" value="445"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+	<section name="PushToGerritPage">
+		<item key="[RepositoryHandle:Repository[/Users/sahithkonuganti/git/Database/.git]].lastUri" value="https://Sahithkonuganti@github.com/Sahithkonuganti/DatabaseProject.git"/>
+	</section>
+</section>

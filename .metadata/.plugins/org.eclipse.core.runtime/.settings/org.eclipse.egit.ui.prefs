@@ -1,0 +1,6 @@
+auto_stage_on_commit=false
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>added initialRequst file to start part2.</message>\n<message>trying to add tables again and view changes</message>\n<message>added the tables for now, testing another commit to view changes</message>\n<message>committing project</message>\n</messages>
+eclipse.preferences.version=1
+repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\n<FilterCache/>
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300
